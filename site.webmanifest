@@ -1,7 +1,7 @@
-   {
-    "name": "ZelloSpark",
-    "short_name": "ZelloSpark",
-    "icons": [
+{
+  "name": "ZelloSpark",
+  "short_name": "ZelloSpark",
+  "icons": [
         {
             "src": "https://github.com/ZelloSpark/web/blob/main/android-chrome-192x192.png?raw=true",
             "sizes": "192x192",
