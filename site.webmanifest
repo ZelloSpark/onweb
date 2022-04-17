@@ -1,0 +1,23 @@
+   {
+    "name": "ZelloSpark",
+    "short_name": "ZelloSpark",
+    "icons": [
+        {
+            "src": "https://github.com/ZelloSpark/web/blob/main/android-chrome-192x192.png?raw=true",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://github.com/ZelloSpark/web/blob/main/android-chrome-512x512.png?raw=true",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.zellospark.com"
+}
