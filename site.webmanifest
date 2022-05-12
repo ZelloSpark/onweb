@@ -3,13 +3,13 @@
   "short_name": "ZelloSpark",
   "icons": [
         {
-            "src": "https://github.com/ZelloSpark/website/blob/main/android-chrome-192x192.png?raw=true",
+            "src": "https://github.com/ZelloSpark/onweb/blob/main/android-chrome-192x192.png?raw=true",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "any maskable"
         },
         {
-            "src": "https://github.com/ZelloSpark/website/blob/main/android-chrome-512x512.png?raw=true",
+            "src": "https://github.com/ZelloSpark/onweb/blob/main/android-chrome-512x512.png?raw=true",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "any maskable"
